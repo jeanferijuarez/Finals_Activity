@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.6.0/css/bootstrap.min.css" integrity="sha512-P5MgMn1jBN01asBgU0z60Qk4QxiXo86+wlFahKrsQf37c9cro517WzVSPPV1tDKzhku2iJ2FVgL67wG03SGnNA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="css/styles.css">
-    <title>Learn IT Easy Online Shop | Shopping Cart</title>
+    <title>HEIN | ONLINE SHOP | Shopping Cart</title>
 </head>
 <body>
     <div class="container">
@@ -24,7 +24,7 @@
             <div class="col-10">
                 <h1>
                     <i class="fa fa-store"></i>
-                    Learn IT Easy Online Shop
+                    HEIN | ONLINE SHOP
                 </h1>
             </div>
             <div class="col-2 text-right">
